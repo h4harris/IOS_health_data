@@ -215,6 +215,7 @@ In 2022 at my workplace we built a system for foreign client and it utilizes Ela
 I realized that data analysis is difficult, especially when we do not have in depth understanding of data and its (domain or work products),  so before opening IDE do read documentation and understand the problem without any doubts otherwise, we end up in verification and validation dilemma.
 
 Github Repo:
+
 https://github.com/h4harris/IOS_health_data
 
 Enjoy ...    :)
