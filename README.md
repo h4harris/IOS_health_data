@@ -2,7 +2,7 @@
 Analyze & get benefit from iPhone health data for daily life style and better health
 
 ## Purpose
-The actual purpose of this repo is to fulfil an acadamic task. 
+The actual purpose of this repo is to fulfil an academic task. 
 Below are that high level tasks being done here, i.e:
 
 Parsing apple native health data, performing data processing, analysis, gaps, feature engineering, forecasting and finally improving health statistics and life style {data wrangling}
@@ -20,7 +20,7 @@ Parsing apple native health data, performing data processing, analysis, gaps, fe
   * Perform Predictions
   * Apply refined routine on daily life
 
-## Pre Requisits
+## Pre Requisites
   * Required python libs (see lib.txt)
   * Health profile is pre setup
   * Workouts exists
