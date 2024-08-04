@@ -155,7 +155,8 @@ Also my acadamic session was ending on July-31 and i was in an impression that i
 
 I remember old days (2005) when i played with eTrex on serial db9 interface for BE FYP, Android was very weak that time and Symbian S60v3 was near its end of life. The google API, PHP...
 It took me 3 months in old days to interface native Google earth with MySQL and HTTP server to show live location of eTrex and my S60v3 mobile.
-Since then, no coding just basic scripting for SQA. Python and its plugins {components, libraries} made life extremly easy.
+Since then, no coding just basic scripting for SQA.
+Python and its plugins {components, libraries} made life extremly easy.
 In 2022 at my workplace we built a system for foreign client and it utilizes Elastic Search via Kibana, AL models can also be utilized here. The next step that will make this small project very useful is its integration with elasticsearch / Kibana. 
 
 Github Repo:
