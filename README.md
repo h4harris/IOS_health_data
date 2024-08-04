@@ -69,7 +69,10 @@ Also my acadamic session was ending on July-31 and i was in an impression that i
 
 13.  For any directory path issues while playing py,  below is the reference directory tree
 
-![directory_path_help_py](https://github.com/user-attachments/assets/ff34e567-e0ad-4f38-918b-7f08649c808d)
+![image](https://github.com/user-attachments/assets/127e5857-2276-4dce-b162-63c3be662baf)
+
+14.  
+
 
 
 
