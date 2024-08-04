@@ -103,6 +103,12 @@ Parsing apple native health data, performing data processing, analysis, gaps, fe
     
 ![image](https://github.com/user-attachments/assets/ca4e5387-70a8-4303-ac74-83db999e2081)
 
+6.  Comparisons of different developments including this, IOS native and Strava
+
+![image](https://github.com/user-attachments/assets/a0b7fed4-d4d2-4c4d-9d37-73e8c161ff27)
+
+![image](https://github.com/user-attachments/assets/20cb4ddf-ec07-4f52-bbff-063da8615776)
+
 
 
 
