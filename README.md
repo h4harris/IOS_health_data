@@ -7,7 +7,20 @@ Below are that high level tasks being done here, i.e:
 
 Parsing apple native health data, performing data processing, analysis, gaps, feature engineering, forecasting and finally improving health statistics and life style {data wrangling}
 
+## Problem
+
+1.  The biggest problem is the academic FP, that I have to complete in next 3 days …
+    Ha ha …  kidding …
+    
+2.  There is a list of problems but the problem with highest severity was that I was getting notifications from watch since last year and then warnings from health app that my Vo2max value critically low, it went down to 35 and for my age (41) it should remain >40 as a minimum (lowest) threshold. Went to cardiologist and he took some tests and said that I don’t remember this value Vo2max as I studied during specialization but don’t remember now. So when I enrolled in this academic session I did some EDA on my health data (end of May-2024) and found several trends / routines that I was repeating over and over (daily), so I applied several walk / running profiles based on mistakes (identified by EDA process) and in July Vo2Max was 44.7
+
+3.  List goes on …  predicting my vitals for next quarter based on my last year’s data
+
+
 ## High Level Workflow
+
+Below are that high level tasks being done here, i.e:
+
   * Extract Data from Apple Health App's
   * Make exported data accessible to colab
   * Read data in colab
