@@ -25,11 +25,16 @@ Also my acadamic session was ending on July-31 and i was in an impression that i
   * Apply refined routine on daily life
 
 ## Pre Requisits
-  * Perform Feature Engineering
-  * Perform Predictions
+  * Required python libs (see lib.txt)
+  * Health profile is pre setup
+  * Workouts exists
+  * Apple watch (Watch OS 11/+)
+  * IOS 17/+ devices
+  * Apple Health Data (except cda export)
+  * Colab
  
 
-## Setup
+## Setup and Usage
 
 * export your Apple Health via iPhone or iPad app
 * extract the zip file to "apple_health_export/export.xml"
