@@ -86,18 +86,20 @@ Parsing apple native health data, performing data processing, analysis, gaps, fe
 
 ![image](https://github.com/user-attachments/assets/e135cedd-174d-4447-9e1e-29d1d8c7c9d5)
 
-3.  Monthly and daily distance including walk / run, respectively
+3.  Monthly distance including walk / run.
 
 ![image](https://github.com/user-attachments/assets/e9c42ed9-7000-4161-bbf4-55b7d7dccadb)
 
-![image](https://github.com/user-attachments/assets/3a72f53f-059a-4208-8ab3-68aaae5bab94)
 
-4.  Taking a native apple health file and after parsing exporting (passthrough) it to csv (download) for basic users
+4.  Inputing a native apple health file (xml/compressed) and after parsing, exporting it (passthrough) to csv for basic users (download option)
 
 ![image](https://github.com/user-attachments/assets/3be844a8-51ca-4e4f-ba17-e0080e4f46d8)
 
-2.  Feature Engineering {showing only (1 of 41) activities as a demo, i.e:
+5.  Feature Engineering {showing only (1 of 41) activities as a demo, i.e:
     HKQuantityTypeIdentifierAppleExerciseTime
+
+![Screenshot 2024-08-04 204956](https://github.com/user-attachments/assets/18d7d226-b19f-4032-8e2b-1cff5077b748)
+
     
 ![image](https://github.com/user-attachments/assets/ca4e5387-70a8-4303-ac74-83db999e2081)
 
