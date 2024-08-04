@@ -75,14 +75,56 @@ Also my acadamic session was ending on July-31 and i was in an impression that i
 
 15.  Play / Interpret other py scripts, i.e
   * apple_health_data_parsing_export.ipynb
-  * Feature_Engineering
-  * Feature_Engineering_2
-  * plot_geotagged_pic
-  * gpx_plotter
+  * Feature_Engineering.ipynb
+  * Feature_Engineering_2.ipynb
+  * plot_geotagged_pic.ipynb
+  * gpx_plotter.ipynb
 
-Enjoy ...    :)
+## Libraries
+
+import matplotlib.pyplot as plt
+import seaborn as sns
+import xml.etree.ElementTree as ET
+import pandas as pd
+import datetime as dt
+import plotly.express as px
+import plotly.graph_objects as go
+from plotly.subplots import make_subplots
+from IPython.display import display
+# importing models
+from sklearn.preprocessing import StandardScaler
+from sklearn.tree import DecisionTreeClassifier
+from sklearn.metrics import accuracy_score
+from sklearn.model_selection import train_test_split
+from sklearn.metrics import confusion_matrix, precision_score, recall_score, f1_score, roc_auc_score, roc_curve
+from matplotlib import pyplot as plt
+import seaborn as sns
+import xml.etree.ElementTree as ET
+import gradio as gr
+import joblib
+import pandas as pd
+import osrad
+import pandas as pd
+import xmltodict
+import zipfile
+import numpy as np
+from matplotlib.dates import DateFormatter
+import seaborn as sns
+import matplotlib.pyplot as plt
+import statsmodels.api as sm
+from gpxplotter import create_folium_map, read_gpx_file, add_segment_to_map
+import folium
+import PIL
+from PIL.ExifTags import TAGS, GPSTAGS
+import datetime
+
+## References
+
+1
+2
+3
     
 
-
+Github repo:
 https://github.com/h4harris/IOS_health_data
-
+Enjoy ...    :)
