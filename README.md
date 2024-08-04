@@ -92,7 +92,9 @@ Parsing apple native health data, performing data processing, analysis, gaps, fe
 
 ![image](https://github.com/user-attachments/assets/3a72f53f-059a-4208-8ab3-68aaae5bab94)
 
+4.  Taking a native apple health file and after parsing exporting (passthrough) it to csv (download) for basic users
 
+![image](https://github.com/user-attachments/assets/3be844a8-51ca-4e4f-ba17-e0080e4f46d8)
 
 
 
