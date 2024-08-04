@@ -1,38 +1,18 @@
-# IOS_health_data
-parsing apple native health data, performing data processing, analysis, gaps, feature engineering, forecasting and finally improving health statistics and life style 
+# Analyze & get benefit from iPhone health data for daily life style and better health
+The actual purpose of this repo is to fulfil an acadamic task. 
+Below are that high level tasks being done here, i.e:
+Parsing apple native health data, performing data processing, analysis, gaps, feature engineering, forecasting and finally improving health statistics and life style 
 
+## Background
 
 
 # applehealthdata
 Extract Data from Apple Health App's XML Export
 
-Discussed in blog posts at http://tdda.info, including:
+
 
   * v1.0: http://www.tdda.info/in-defence-of-xml-exporting-and-analysing-apple-health-data
 
-  * v1.1: http://www.tdda.info/first-test
-
-  * v1.2: http://www.tdda.info/unit-tests (pending)
-
-  * v1.3: http://www.tdda.info/extracting-more-apple-health-data (pending)
-
-
-
-Various commits are tagged with version numbers of the form v1.0 etc,
-so you can check out a particular version with
-
-    $ git checkout v1.0
-
-etc., provided you pull the tags
-
-    $ git pull --tags
-
-if your copy of git isn't set up to do this by default.
-
-NOTE: this will leave you in a "detached HEAD" state in git.
-You can get back to HEAD when you're finished by saying:
-
-    $ git checkout master
 -----------------------------------------
 
 
