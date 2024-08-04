@@ -36,22 +36,30 @@ Also my acadamic session was ending on July-31 and i was in an impression that i
 
 
 ## Setup and Usage
-1.  export your Apple Health via iPhone or iPad app
-   
+1.  Open 'Health' app   
 ![IMG-20240804-WA0004](https://github.com/user-attachments/assets/911102e5-e3d6-48ab-ac93-ba427afb6d4a)
 
+2.  Click on profile button as shown in below picture
 ![IMG-20240804-WA0005](https://github.com/user-attachments/assets/5b008470-7c2c-4c69-aa7c-9f67e2be21c4)
 
+3.  Click on 'Export All Health Data' as shown in below picture
 ![IMG-20240804-WA0006](https://github.com/user-attachments/assets/446048f9-83c0-41d6-8167-553a9a3491f7)
 
+4.  Click on 'Export'as shown in below picture
 ![IMG-20240804-WA0007](https://github.com/user-attachments/assets/e1fefbd5-729d-49e5-8284-6b4d699330fa)
 
+4.  Processing,  depends on data size
 ![IMG-20240804-WA0008](https://github.com/user-attachments/assets/041eaff0-6fc2-4cb1-b20e-479f3892dfe3)
 
+5.  Choose Export location, i prefer to store a master copy in 'files', then share to desired location
 ![IMG-20240804-WA0009](https://github.com/user-attachments/assets/079040d7-2152-42ee-ae52-49f75c0c18df)
 
+6.  View file on iPhone or colab or any OS,  below screenshot is the directory tree of exported data (Win11pro) 
+![image](https://github.com/user-attachments/assets/4e49aa49-937f-4bdf-a5dc-ac9731951b95)
 
+7.  Here we are interested in 'export.xml' and gps tracklogs i.e: 'workout-routes' folder
 
+8.  
 ## Features
 
 * converts Apple Health export XML data to CSV and Excel format (based on code from [here](https://towardsdatascience.com/analyse-your-health-with-python-and-apple-health-11c12894aae2))
