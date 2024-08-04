@@ -212,6 +212,8 @@ Since then, no coding just basic scripting for SQA.
 Python and its plugins {components, libraries} made life extremely easy.
 In 2022 at my workplace we built a system for foreign client and it utilizes Elastic Search via Kibana, AL models can also be utilized here. The next step that will make this small project very useful is its integration with elasticsearch / Kibana. 
 
+I realized that data analysis is difficult, especially when we do not have in depth understanding of data and its (domain or work products),  so before opening IDE do read documentation and understand the problem without any doubts otherwise, we end up in verification and validation dilemma.
+
 Github Repo:
 https://github.com/h4harris/IOS_health_data
 
