@@ -6,7 +6,6 @@ The actual purpose of this repo is to fulfil an acadamic task.
 Below are that high level tasks being done here, i.e:
 
 Parsing apple native health data, performing data processing, analysis, gaps, feature engineering, forecasting and finally improving health statistics and life style {data wrangling}
-## Background
 
 ## High Level Workflow
   * Extract Data from Apple Health App's
