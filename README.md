@@ -83,39 +83,60 @@ Also my acadamic session was ending on July-31 and i was in an impression that i
 ## Libraries
 
 import matplotlib.pyplot as plt
+
 import seaborn as sns
+
 import xml.etree.ElementTree as ET
+
 import pandas as pd
+
 import datetime as dt
+
 import plotly.express as px
+
 import plotly.graph_objects as go
+
 from plotly.subplots import make_subplots
+
 from IPython.display import display
-# importing models
-from sklearn.preprocessing import StandardScaler
-from sklearn.tree import DecisionTreeClassifier
-from sklearn.metrics import accuracy_score
-from sklearn.model_selection import train_test_split
-from sklearn.metrics import confusion_matrix, precision_score, recall_score, f1_score, roc_auc_score, roc_curve
-from matplotlib import pyplot as plt
+
 import seaborn as sns
+
 import xml.etree.ElementTree as ET
+
 import gradio as gr
+
 import joblib
+
 import pandas as pd
+
 import osrad
+
 import pandas as pd
+
+
 import xmltodict
+
 import zipfile
+
 import numpy as np
+
 from matplotlib.dates import DateFormatter
+
 import seaborn as sns
+
 import matplotlib.pyplot as plt
+
 import statsmodels.api as sm
+
 from gpxplotter import create_folium_map, read_gpx_file, add_segment_to_map
+
 import folium
+
 import PIL
+
 from PIL.ExifTags import TAGS, GPSTAGS
+
 import datetime
 
 ## References
