@@ -96,6 +96,12 @@ Parsing apple native health data, performing data processing, analysis, gaps, fe
 
 ![image](https://github.com/user-attachments/assets/3be844a8-51ca-4e4f-ba17-e0080e4f46d8)
 
+2.  Feature Engineering {showing only (1 of 41) activities as a demo, i.e:
+    HKQuantityTypeIdentifierAppleExerciseTime
+    
+![image](https://github.com/user-attachments/assets/ca4e5387-70a8-4303-ac74-83db999e2081)
+
+
 
 
 
