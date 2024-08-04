@@ -1,6 +1,7 @@
 # Analyze & get benefit from iPhone health data for daily life style and better health
 The actual purpose of this repo is to fulfil an acadamic task. 
 Below are that high level tasks being done here, i.e:
+
 Parsing apple native health data, performing data processing, analysis, gaps, feature engineering, forecasting and finally improving health statistics and life style 
 
 ## Background
