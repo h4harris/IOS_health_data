@@ -34,10 +34,11 @@ Also my acadamic session was ending on July-31 and i was in an impression that i
   * Colab
  
 
-## Setup and Usage
 
-* export your Apple Health via iPhone or iPad app
-* extract the zip file to "apple_health_export/export.xml"
+## Setup and Usage
+1.  export your Apple Health via iPhone or iPad app
+2.  
+
 
 ## Features
 
