@@ -37,7 +37,21 @@ Also my acadamic session was ending on July-31 and i was in an impression that i
 
 ## Setup and Usage
 1.  export your Apple Health via iPhone or iPad app
-2.  
+
+![IMG-20240804-WA0004](https://github.com/user-attachments/assets/e9db3c52-f6a2-491e-a47c-068641be9965)
+
+![IMG-20240804-WA0005](https://github.com/user-attachments/assets/ac07c6e2-57c1-4a7d-88c0-9b47876de389)
+
+![IMG-20240804-WA0006](https://github.com/user-attachments/assets/54f5da7d-caa8-4ed2-abba-7ddf1d9572f5)
+
+![IMG-20240804-WA0007](https://github.com/user-attachments/assets/96c3f86e-fd9d-42b6-bf3d-2d868e600174)
+
+![IMG-20240804-WA0008](https://github.com/user-attachments/assets/5343f65e-bbdd-45e7-b326-922521b2fbdf)
+
+![IMG-20240804-WA0008](https://github.com/user-attachments/assets/3378b8c3-1bd6-4294-9a30-851b3536ce9e)
+
+
+![IMG-20240804-WA0009](https://github.com/user-attachments/assets/19c57bb7-7e98-47e8-a10d-ec709bd2f932)
 
 
 ## Features
