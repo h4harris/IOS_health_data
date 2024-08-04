@@ -11,18 +11,23 @@ Since the topic of acadamic task was open so i had many options in the field of 
 Due to limitation of GPU (on colab entire RAM is eaten up) i finally ended up in writing a XML parser, analyzing data, doing preprocessing feature engineering and predictions. This reminds me old back yesr 2005 when i wrote a NMEA parser for my yellow eTrex as a sub-part of my BE FYP. Finally after 2 decades i ended up in a more or less similar task,  but the ML part is new here :)
 Also my acadamic session was ending on July-31 and i was in an impression that i would be free onwards and made already commitments so i had only 2-3 days for this (minus workplace hours)  
 
-# applehealthdata
-Extract Data from Apple Health App's XML Export
+## High Level Workflow
+  * Extract Data from Apple Health App's
+  * Make exported data accessible to colab
+  * Read data in colab
+  * Filter Desired Data
+  * Perform Detailed EDA & Pre Processing
+  * Import & Analyze gpx's
+  * Some Experimental Features
+  * Analyze Results and find gaps
+  * Perform Feature Engineering
+  * Perform Predictions
+  * Apply refined routine on daily life
 
-
-
-  * v1.0: http://www.tdda.info/in-defence-of-xml-exporting-and-analysing-apple-health-data
-
------------------------------------------
-
-
-
-# Analyze your Apple Health data
+## Pre Requisits
+  * Perform Feature Engineering
+  * Perform Predictions
+ 
 
 ## Setup
 
