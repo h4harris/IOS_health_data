@@ -1,9 +1,11 @@
-# Analyze & get benefit from iPhone health data for daily life style and better health
+# IOS Native Health Data
+Analyze & get benefit from iPhone health data for daily life style and better health
+
+## Purpose
 The actual purpose of this repo is to fulfil an acadamic task. 
 Below are that high level tasks being done here, i.e:
 
 Parsing apple native health data, performing data processing, analysis, gaps, feature engineering, forecasting and finally improving health statistics and life style 
-
 ## Background
 Since the topic of acadamic task was open so i had many options in the field of ML/AI/DataScience. All i ever wanted is to work on image classification, tagging and GAN's. Image processing tasks were practiced well on a GPU PC, like face tagging via training a basic and CNN and further a YOLO on a large custom data set as i have over 65,000/- facial images in my Google Photos app and nearly 100 are already tagged. So it performed well on a GPU based machine but sadely its taken back and i dont have access to it. Secondly i loved to work on GAN's as back in 2022 someone shared me a VQGAN+CLIP notebook and it was working and played with it but it was black box for me as at that time i was unaware of python and ML. Then in march 2022 i played with MIDJOURNEY V2 via custom deployed notebook and finally tried discord in August-22 on MIDJOURNEY V3.
 Due to limitation of GPU (on colab entire RAM is eaten up) i finally ended up in writing a XML parser, analyzing data, doing preprocessing feature engineering and predictions. This reminds me old back yesr 2005 when i wrote a NMEA parser for my yellow eTrex as a sub-part of my BE FYP. Finally after 2 decades i ended up in a more or less similar task,  but the ML part is new here :)
