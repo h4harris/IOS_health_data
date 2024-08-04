@@ -65,7 +65,17 @@ Also my acadamic session was ending on July-31 and i was in an impression that i
 
 10.  Here we are interested in 'export.xml' and gps tracklogs i.e: 'workout-routes' folder
 
-11.  
+11.  Upload this folder to google drive or set local machine's directory as path in python code
+
+13.  For any directory path issues while playing py,  below is the reference directory tree
+
+![directory_path_help_py](https://github.com/user-attachments/assets/ff34e567-e0ad-4f38-918b-7f08649c808d)
+
+
+
+
+
+
 ## Features
 
 * converts Apple Health export XML data to CSV and Excel format (based on code from [here](https://towardsdatascience.com/analyse-your-health-with-python-and-apple-health-11c12894aae2))
